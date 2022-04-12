@@ -7,7 +7,6 @@ public class Problem1000 {
         int answer = 0;
         answer = a + b;
         return answer;
-
     }
     public static void main(String[] args) {
         Problem1000 problem1000 = new Problem1000();
